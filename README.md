@@ -13,5 +13,5 @@
 + TNNLS-2023 Multiview Subspace Clustering via Low-Rank Symmetric Affinity Graph.[code](https://github.com/lanbiolab/LSGMC)
 + TIP-2022 Fast Parameter-free Multi-view Subspace Clustering with Consensus Anchor Guidance.[code](https://github.com/wangsiwei2010/FPMVS-CAG)
 ### Singelview clustering
-+ + TAI-2021 Balanced Graph Cut with Exponential Inter-Cluster Compactness. [code](https://github.com/danyangzz/TAI2021-Exp-Cut)
++ TAI-2021 Balanced Graph Cut with Exponential Inter-Cluster Compactness. [code](https://github.com/danyangzz/TAI2021-Exp-Cut)
   
