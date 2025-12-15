@@ -11,6 +11,8 @@
 ## Deep Clustering
 | Method | Year | Description | Code |
 |--------|------|-------------|------|
+
+| Variational Graph Generator for Multiview Graph Clustering | 2025 | TNNLS-2025 Variational Graph Generator for Multiview Graph Clustering | [code](https://github.com/cjpcool/VGMGC) |
 | Awesome-Deep-Multi-View-Clustering | 2025 | Awesome-Deep-Multi-View-Clustering methods | [code](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) |
 | Awesome-Deep-Graph-Clustering | 2024 | Awesome-Deep-Graph-Clustering | [code](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
 | DeepClustering | 2024 | The code of DeepClustering | [code](https://github.com/zhoushengisnoob/DeepClustering) |
