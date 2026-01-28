@@ -44,3 +44,4 @@
 ## 待整理
 https://github.com/guanyuezhen/BMvC
 https://github.com/ZaneeYang/TPAMI2024-EBMGC-GNF/tree/master
+https://github.com/wanxinhang/Awesome-semi-supervised-multi-view-classification
